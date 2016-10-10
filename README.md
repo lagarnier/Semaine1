@@ -21,7 +21,3 @@ J'aime la nature, le dessin, l'art en général mais surtout ... le _fromage_ !
 ## Pourquoi je suis sur Simplonline ? 
 
 Pour apprendre à coder et créer de jolies choses par la suite en tapotant sur mon clavier. 
-
-git add README.md
-git commit -m "ajout texte de présentation"
-git push origin master
